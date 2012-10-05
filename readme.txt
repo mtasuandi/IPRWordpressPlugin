@@ -2,4 +2,4 @@
 @email  : teguh.andro@gmail.com
 
 HKI
-Wordpress plugin for Intellectual Property Rights registration.
+Wordpress plugin for Intellectual Property Rights registration. This plugin underdevelopment.
